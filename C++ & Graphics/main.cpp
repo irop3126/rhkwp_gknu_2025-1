@@ -1,4 +1,3 @@
-```
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <queue>
@@ -524,7 +523,6 @@ int main() {
 
         window.display();
     }
-```
-
+    
     return 0;
 }
