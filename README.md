@@ -3,7 +3,7 @@
 
 ## 수록된 과제 제출물
 1. C++
-   - [ ] C++ & Graphics
+   - [x] C++ & Graphics
    - [ ] comming soon.
 2. comming soon.
    - [ ] comming soon.
