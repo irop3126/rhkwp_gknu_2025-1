@@ -1,3 +1,4 @@
+```
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <queue>
@@ -5,6 +6,8 @@
 #include <vector>
 #include <cmath>
 #include <algorithm>
+
+//실행시 visual studio 2022 기준으로 source\repos\(프로젝트 이름)\(프로젝트 이름)\ 에 arial.ttf를 넣어야함.
 
 constexpr int ROWS = 20;
 constexpr int COLS = 30;
@@ -521,6 +524,7 @@ int main() {
 
         window.display();
     }
+```
 
     return 0;
 }
